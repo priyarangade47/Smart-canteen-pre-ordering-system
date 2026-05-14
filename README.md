@@ -55,20 +55,5 @@ Requires a configured MongoDB connection if you use the API routes under `config
 
 ---
 
-## Hackathon submission checklist
-
-> **Subject:** 🚀 Action Required: GitHub Repository & Submission Guidelines  
-
-- **Repository:** Public GitHub repo created and linked to your team on the submission platform.  
-- **README:** Includes team name, project title, short solution description (this file).  
-- **Commits:** Commit regularly to show progress during the event.  
-- **Team on platform:** All members added so everyone receives credit.  
-- **Submission deadline:** **14 May 2026** — submit and push early (e.g. at least **30 minutes** before close) to avoid last-minute issues.
-
-If anything blocks submission (platform, GitHub, or build errors), contact the organizing team as soon as possible.
-
----
-
-**Best of luck with the hackathon.**
 
 — Smart Canteen Pre-Ordering Team
